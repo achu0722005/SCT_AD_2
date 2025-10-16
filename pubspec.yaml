@@ -65,7 +65,7 @@ flutter:
      - assets/images/clipboard.png
      - assets/images/uncheck.png
      - assets/images/unedit.png
-  #   - images/a_dot_ham.jpeg
+     - assets/images/img.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
