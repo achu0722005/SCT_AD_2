@@ -119,4 +119,6 @@ flutter run
 ---
 ### 📸 Screenshots
 You can capture your emulator screenshots and store them under:
+---
 ![Todo list homescreen](assets/images/img.png)
+---
