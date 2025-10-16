@@ -124,3 +124,13 @@ You can capture your emulator screenshots and store them under:
 ---
 ![Todo list homescreen](assets/images/img.png)
 ---
+## Contributing
+
+Contributions are welcome! Feel free to fork the project and submit pull requests.
+
+---
+
+## License
+
+This project is licensed by Akshay And made with ❤️ in  India.
+ 
