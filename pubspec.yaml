@@ -66,6 +66,7 @@ flutter:
      - assets/images/uncheck.png
      - assets/images/unedit.png
      - assets/images/img.png
+#     - - assets/images/img.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

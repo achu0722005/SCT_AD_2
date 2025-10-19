@@ -169,7 +169,7 @@ class _todohomescreenState extends State<todohomescreen> {
                               key: Key(task[index] + index.toString()),
                                 direction: DismissDirection.startToEnd,
                               background: Container(
-                                color: Colors.red,
+                                color: Colors.redAccent,
                                 alignment: Alignment.centerLeft,
                                 child: Icon(Icons.delete_forever,color: Colors.white,),
                               ),
